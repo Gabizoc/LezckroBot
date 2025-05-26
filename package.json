@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^1.7.3",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^14.15.3",
+    "mongoose": "^8.5.2",
+    "node-cron": "^3.0.3"
+  },
+  "name": "leskro-bot",
+  "version": "1.0.0",
+  "description": "Un simple bot dév. par Gabizoc",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabizoc",
+  "license": "ISC"
+}
