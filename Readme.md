@@ -24,12 +24,10 @@ LezckroBot est un bot Discord interactif conçu pour animer des discussions sur 
    git clone https://github.com/Gabizoc/LezckroBot.git
    cd LezckroBot
 
-
 2. Installez les dépendances :
 
    ```bash
    npm install
-   
 
 3. Créez un fichier `config.json` à la racine du projet avec le contenu suivant :
 
