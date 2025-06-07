@@ -1,4 +1,4 @@
-# LezckroBot
+# LezckroBot by Gabizoc
 
 LezckroBot est un bot Discord interactif conçu pour animer des discussions sur des dilemmes quotidiens. Il permet aux utilisateurs de voter sur des questions via des boutons interactifs, avec un système de suivi des résultats en temps réel.
 
