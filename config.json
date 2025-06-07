@@ -1,8 +1,8 @@
 {
-  "token": "MTI3MDEwMDkzNDk4MjI0MjQzNw.G3a4NM.jysBSmQKQyD4vXpkvJtctAvWGBDTwUG66qILXk",
-  "dailyChannelId": "1270358797566873600",
-  "mongodbUri": "mongodb+srv://gabizoc:qOabtE4Hs4Whik2A@cluster0.db49o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
-  "errorNotifId": "826133033069051954",
-  "userIdcmd": "826133033069051954",
-  "status": "DanLeskro"
+  "token": "",
+  "dailyChannelId": "",
+  "mongodbUri": "",
+  "errorNotifId": "",
+  "userIdcmd": "",
+  "status": ""
 }
